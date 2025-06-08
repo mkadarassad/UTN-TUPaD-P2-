@@ -1,6 +1,6 @@
 #tp5ej07
 
-def operaciones_basicas(a,b):                                                       #defino una funcion que pueda dividir suymar restar y multiplicar 2 numeros
+def operaciones_basicas(a,b):                                                       #defino una funcion que pueda dividir sumar restar y multiplicar 2 numeros
     while b==0:
         b=int(input(f"No se puede dividir por cero. Ingrese un nuevo valor: "))
     

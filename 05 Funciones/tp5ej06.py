@@ -1,6 +1,6 @@
 #tp5ej06
 
-def tabla_multiplicar(x):
+def tabla_multiplicar(x):   #defino una funcion que muestre la tabla de un numero x.
     for i in range(1,11):
         print(f"{x}x{i}={x*i}")
 

@@ -2,8 +2,8 @@
 
 lista_vacia=[]
 
-lista_vacia.append(palabra1)
-lista_vacia.append(palabra2)
-lista_vacia.append(palabra3)
+lista_vacia.append("palabra1")
+lista_vacia.append("palabra2")
+lista_vacia.append("palabra3")
 
 print(lista_vacia)
